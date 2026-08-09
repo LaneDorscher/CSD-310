@@ -1,3 +1,14 @@
+'''
+Author: Group A
+        Lane Dorscher
+        Chelsea Mcelhiney
+        Pedro Avila
+Date: 8/8/2026
+Course: CSD-310
+Assignment: Module 9.1 Milestone #2
+Description: Acts as a package bringing together the repository library.
+'''
+
 from .PurchaseOrderRepository import PurchaseOrderRepository
 from .PurchaseOrderDeliveryRepository import PurchaseOrderDeliveryRepository
 from .PurchaseOrderDetailRepository import PurchaseOrderDetailRepository

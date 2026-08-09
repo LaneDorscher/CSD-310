@@ -1,6 +1,13 @@
 /*
-    Bacchus Winery Database
-    MySQL Schema
+Author: Group A
+        Lane Dorscher
+        Chelsea Mcelhiney
+        Pedro Avila
+Date: 8/8/2026
+Course: CSD-310
+Assignment: Module 9.1 Milestone #2
+Description: Script to create the bacchus_winery database, also pre-populates it with given data from the case study.
+             This works effectively to accommodate the 3 suppliers we know about with option to add more.
 */
 
 DROP DATABASE IF EXISTS bacchus_winery;

@@ -1,4 +1,14 @@
-
+'''
+Author: Group A
+        Lane Dorscher
+        Chelsea Mcelhiney
+        Pedro Avila
+Date: 8/8/2026
+Course: CSD-310
+Assignment: Module 9.1 Milestone #2
+Description: Base Repository class to pull from single table. Provides means to get all records from a table and print
+             out as a dictionary object OR formatted table
+'''
 
 
 class BaseRepository:
